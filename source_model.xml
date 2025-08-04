@@ -4,7 +4,7 @@ xmlns="http://openquake.org/xmlns/nrml/0.5"
 xmlns:gml="http://www.opengis.net/gml"
 >
     <sourceModel
-    name="Example Source Model Containing — Area Source"
+    name="Ejemplo Bogota"
     >
         <sourceGroup
         name="group 1"
